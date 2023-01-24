@@ -1,0 +1,14 @@
+#grid-container {
+    display: flex;
+    margin: 20px;
+    gap: 10px;
+    border: 20px;
+    border-color: black;
+}
+
+.sketch {
+    background: black;
+    height: 500px;
+    width: 500px;
+    border-color: black;
+}
